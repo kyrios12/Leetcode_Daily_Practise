@@ -42,9 +42,11 @@
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/kyrios12/Leetcode_Daily_Practise/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/kyrios12/Leetcode_Daily_Practise/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/kyrios12/Leetcode_Daily_Practise/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/kyrios12/Leetcode_Daily_Practise/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
